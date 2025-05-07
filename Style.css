@@ -173,10 +173,10 @@ body{
 .footer {
     background-color: #EFACA5;
     text-align: center;
-    padding: 0px;
+    padding: 20px;
     color: white;
     font-size: 14px;
     font-weight: 500;
-    margin-top: 40px;
+    margin-top: 0;
     border-top: 2px solid #BADD7F;
 }
