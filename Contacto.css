@@ -170,15 +170,14 @@ body{
 
 /*Contacto------------------------------------------------------------------------------------------------------------------------------------------*/
 #contacto {
-    background-color: #EFACA5;  
+    background-color: #F7EFDA;  
     padding: 60px 20px;
-    border-radius: 10px;
 }
 
 #contacto h2 {
     text-align: center;
     margin-bottom: 20px;
-    color: white;
+    margin-top: 20px;
     font-size: 250%;
 }
 
