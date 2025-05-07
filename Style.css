@@ -124,8 +124,8 @@ body{
 
 .home-sci{
     position: absolute;
-    bottom: 40px;
-    width: 170px;
+    bottom: 110px;
+    width: 100px;
     display: flex;
     justify-content: space-between;
 }
